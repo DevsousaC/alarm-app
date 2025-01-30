@@ -3,10 +3,9 @@
 This project is a simple implementation of an alarm system using JavaScript, HTML, and CSS. The code allows the user to set alarms with specific hours and minutes, activate or deactivate each alarm, and delete alarms. When the set time for an alarm is reached, it plays a notification sound.
 
 ## Technologies Used:
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 Logo" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40"/> 
-
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40"/></span>
 
 
 ## Key Features:
